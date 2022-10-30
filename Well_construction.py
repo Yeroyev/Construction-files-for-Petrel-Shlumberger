@@ -8,17 +8,6 @@ import os
 import sys
 from datetime import datetime, date, time
 
-def License(actual_date):
-    if int(actual_date) >= 20200101:
-        print('License expired')
-        sys.exit()
-    else:
-        return None
-
-# Лицензия
-actual_date = datetime.today().strftime("%Y%m%d") #получение системной даты
-License(actual_date)
-
 root = Tk()
 
 def Quit(ev):
