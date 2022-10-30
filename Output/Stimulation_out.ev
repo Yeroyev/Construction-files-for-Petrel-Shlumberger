@@ -1,0 +1,41 @@
+UNITS METRIC
+
+WELLNAME "Pg 1"
+21/2/2014 stimulate 1000 1100
+22/2/2014 stimulate 1100 1200
+23/2/2014 stimulate 1200 1300
+24/2/2014 stimulate 1300 1400
+25/2/2014 stimulate 1400 1500
+26/2/2014 stimulate 1500 1600
+27/2/2014 stimulate 1600 1700
+28/2/2014 stimulate 1700 1800
+
+WELLNAME "2"
+1/3/2014 stimulate 1800 1900
+2/3/2014 stimulate 1900 2000
+3/3/2014 stimulate 2000 2100
+4/3/2014 stimulate 2100 2200
+5/3/2014 stimulate 2200 2300
+6/3/2014 stimulate 2300 2400
+7/3/2014 stimulate 2400 2500
+8/3/2014 stimulate 2500 2600
+9/3/2014 stimulate 2600 2700
+10/3/2014 stimulate 2700 2800
+11/3/2014 stimulate 2800 2900
+12/3/2014 stimulate 2900 3000
+13/3/2014 stimulate 3000 3100
+14/3/2014 stimulate 3100 3200
+15/3/2014 stimulate 3200 3300
+16/3/2014 stimulate 3300 3400
+
+WELLNAME "3"
+17/3/2014 stimulate 3400 3500
+18/3/2014 stimulate 3500 3600
+19/3/2014 stimulate 3600 3700
+20/3/2014 stimulate 3700 3800
+21/3/2014 stimulate 3800 3900
+22/3/2014 stimulate 3900 4000
+23/3/2014 stimulate 4000 4100
+
+WELLNAME "stimu"
+24/3/2014 stimulate 4100 4200
